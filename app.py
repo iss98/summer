@@ -13,6 +13,8 @@ st.title("0814 여름학교 ChatGPT API 실습")
 # #가로 줄
 st.divider()
 
+st.header("수업이 끝났습니다. 질문해주세요")
+
 # #헤더 
 st.header("예시 자료")
 
